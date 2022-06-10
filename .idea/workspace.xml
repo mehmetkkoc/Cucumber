@@ -20,142 +20,6 @@
       <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/target/test-classes/Day05_JUnit/C01_MavenIlkClass.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/target/test-classes/day13_cookies_webTables/C01_Cookies.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/target/test-classes/day01_seleniumProje/C01_IlkClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/java/pages/AmazonPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/java/pages/DatatablesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/java/pages/HMCPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/java/stepDefinitions/AmazonStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/java/stepDefinitions/DataTablesStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/java/stepDefinitions/HMCStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/resources/features/US1005_hotelMyCampPositiveLogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/resources/features/US1006_hotelMyCampNegativeLogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/resources/features/US1007_scenerioOutlineKullanimi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/resources/features/US1008_NegativeLoginScenarioOutline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/src/test/resources/features/US1009_DatatablesScenarioOutline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/target/test-classes/pages/AmazonPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/target/test-classes/stepDefinitions/AmazonStepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/target/test-classes/utilities/ConfigReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.Batch59_Cucumber/target/test-classes/utilities/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AutomationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DataTablesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/GuruPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HMCPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HerokuappPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/TestRunner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/AmazonStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/AutomationStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/DataTablesStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ExcelStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/GuruStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HMCStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HerokuStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1001_amazonSearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1002_backgroundKullanim.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1003_parametreKullanimi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1004_ConfigDosyasindanParametreKullanimi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1005_hotelMyCampPositiveLogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1006_hotelMyCampNegativeLogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1007_ScenerioOutlineKullanimi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1008_NegativeLoginScenarioOutline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1009_DataTablesScenarioOutline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1010_Herokuapp.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1011_GuruTest.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1012_AutomationPractice.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1013_ReadExcel.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/amazonSearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ulkeler.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/com.batch59Cucumber-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/css/cucumber.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-798759112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/jquery.tablesorter.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-html-reports/js/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-reports.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cucumber-reports2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/json-reports/cucumber.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/json-reports/cucumber2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2022-06-10T12-25-12_923.dump" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-US1002 Kullanici ortak adimlari Background ile calistirir.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-US1003 kullanici parametre kullanarak arama yapabilmeli.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-US1004 Kullanici parametre ile configuration file'i kullanabilmeli.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-US1011 web tablasundaki istenen sutunu yazdirma.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1001_amazonSearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1002_backgroundKullanim.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1003_parametreKullanimi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1004_ConfigDosyasindanParametreKullanimi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1005_hotelMyCampPositiveLogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1006_hotelMyCampNegativeLogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1007_ScenerioOutlineKullanimi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1008_NegativeLoginScenarioOutline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1009_DataTablesScenarioOutline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1010_Herokuapp.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1011_GuruTest.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1012_AutomationPractice.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/US1013_ReadExcel.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/amazonSearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/AmazonPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/AutomationPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/DataTablesPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/GuruPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/HMCPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/HerokuappPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/Runner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/TestRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/runners/TestRunner2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AmazonStepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AutomationStepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/DataTablesStepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/ExcelStepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/GuruStepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/HMCStepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/HerokuStepDefinitions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Hooks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ulkeler.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/xml-report/cucumber.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/xml-report/cucumber2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.SeleniumPractice/.idea/jarRepositories.xml" afterDir="false" />
@@ -349,6 +213,98 @@
       <change beforePath="$PROJECT_DIR$/../Working Area/src/GetTotal.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Working Area/src/TasKagitMakas.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Working Area/src/exam2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/AutomationStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/AutomationStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/ExcelStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ExcelStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/com.batch59Cucumber-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/css/cucumber.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/embeddings/embedding_-798759112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/js/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/js/jquery.tablesorter.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/overview-failures.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/overview-features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/overview-steps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/overview-tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_1841912273.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_1_417709916.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_2_1152061059.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-feature_3_1810515768.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_115014894.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_1758352257.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2149501486.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2149501487.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2149507997.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2209773552.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/report-tag_2210992001.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/json-reports/cucumber.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/json-reports/cucumber2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2022-06-10T12-25-12_923.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-US1002 Kullanici ortak adimlari Background ile calistirir.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-US1003 kullanici parametre kullanarak arama yapabilmeli.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-US1004 Kullanici parametre ile configuration file'i kullanabilmeli.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-US1011 web tablasundaki istenen sutunu yazdirma.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1001_amazonSearch.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1002_backgroundKullanim.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1003_parametreKullanimi.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1004_ConfigDosyasindanParametreKullanimi.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1005_hotelMyCampPositiveLogin.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1006_hotelMyCampNegativeLogin.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1007_ScenerioOutlineKullanimi.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1008_NegativeLoginScenarioOutline.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1009_DataTablesScenarioOutline.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1010_Herokuapp.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1011_GuruTest.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1012_AutomationPractice.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/US1013_ReadExcel.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/amazonSearch.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AmazonPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AutomationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/DataTablesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/GuruPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HMCPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HerokuappPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/TestRunner2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AmazonStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/AutomationStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/DataTablesStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/ExcelStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/GuruStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/HMCStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/HerokuStepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Hooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ulkeler.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ConfigReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xml-report/cucumber.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/xml-report/cucumber2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.seleniumIlkProje/src/test/java/IlkClass.java" beforeDir="false" />
@@ -359,20 +315,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2ANZYfegPLL2KBgvO95wEI0kVzW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -383,6 +346,49 @@
       <recent name="D:\TechPro\Projeler\com.NewSelenium\src" />
       <recent name="D:\TechPro\Projeler\com.NewSelenium" />
     </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: TC18 kullanici excel bilgilerini kullanir">
+    <configuration name="Scenario: TC18 kullanici excel bilgilerini kullanir" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1013_ReadExcel.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="com.Batch59Cucumber" />
+      <option name="NAME_FILTER" value="^TC18 kullanici excel bilgilerini kullanir$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC18 kullanici excel bilgilerini kullanir$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC18 kullanici excel bilgilerini kullanir" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.Batch59Cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: TC18 kullanici excel bilgilerini kullanir" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -405,5 +411,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

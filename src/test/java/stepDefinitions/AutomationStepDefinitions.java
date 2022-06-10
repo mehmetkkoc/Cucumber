@@ -47,7 +47,7 @@ public class AutomationStepDefinitions {
                 .sendKeys(Keys.TAB)
                 .sendKeys(Keys.TAB)
                 .sendKeys(Keys.TAB)
-                .sendKeys(Keys.TAB)
+
                 .sendKeys(faker.company().name())
                 .sendKeys(Keys.TAB)
                 .sendKeys(faker.address().fullAddress())
@@ -59,10 +59,11 @@ public class AutomationStepDefinitions {
                 .sendKeys(faker.address().zipCode())
                 .sendKeys(Keys.TAB)
                 .sendKeys("United States")
+
                 .sendKeys(Keys.TAB)
+
                 .sendKeys(Keys.TAB)
-                .sendKeys(faker.phoneNumber().phoneNumber())
-                .sendKeys(Keys.TAB)
+                //.sendKeys("0904232141212")
                 .sendKeys(faker.phoneNumber().phoneNumber())
                 .sendKeys(Keys.TAB)
                 .sendKeys("ALSK").perform();
